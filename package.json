@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "version": "0.2.1",
   "description": "Expand the selection based on the scope.",
-  "activationEvents": [
+  "activationCommands": [
     "expand-selection:expand"
   ],
   "repository": "https://github.com/mrolla/expand-selection",
